@@ -1,1 +1,1 @@
-# Keylogger
+This project is a simple keylogger developed for educational purposes. A keylogger is a program that records keystrokes made by a user on their keyboard. This project demonstrates basic programming skills and provides an understanding of how keyloggers work.
